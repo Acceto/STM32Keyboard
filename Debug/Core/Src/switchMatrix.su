@@ -1,0 +1,3 @@
+switchMatrix.c:3:6:bWriteColumnState	16	static
+switchMatrix.c:33:5:bReadRowState	24	static
+switchMatrix.c:68:5:intReadRowState	16	static
